@@ -1,2 +1,2 @@
-FROM AMAZON LINUX
+FROM Ubuntu
 RUN echo "Testing docker" > /tmp/testfile1
